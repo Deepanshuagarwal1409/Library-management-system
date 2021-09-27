@@ -13,7 +13,7 @@ def addbook():
     print(">---------------------------------------------------------------------------<")
     print("Data Entered Successfully")
     main()
-def issue():
+def issueb():
     n = input("Enter Name: ")
     r = input("Enter Reg No: ")
     co = input("Enter Book Code: ")
